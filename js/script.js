@@ -107,4 +107,11 @@
 //     const sum = x / 3;
 //     console.log(sum);
 // })
-
+ 
+//! 10 // 
+// let array6 =  [15, 100, 25, 10, 36];
+// for (let y in array6){
+//     console.log(y);
+// }
+// array6.splice(3,1);
+// console.log(array6);
