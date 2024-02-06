@@ -61,20 +61,19 @@
 
 //! 6 //
 
-let array1 = [5, 25, 89, 120, 36];
+// let array1 = [5, 25, 89, 120, 36];
 // //! დავამატე ბოლოში //
-array1.push("javascript", "python");
-// console.log(array1);
+// array1.push("javascript", "python");
 // //! დავამატე დასაწყისში //
-array1.unshift("html", "css");
-// console.log(array1);
+// array1.unshift("html", "css");
 // for (let sum in array1){
 //     console.log(sum);
 // }
 // //! წავშალე პირველი //
-array1.shift();
-// console.log(array1);
+// array1.shift();
 // //! წავშალე ბოლო //
-array1.pop();
-console.log(array1);
+// array1.pop();
+// for (let result of array1){
+//     console.log(result);
+// }
 
