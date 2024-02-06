@@ -144,3 +144,21 @@
 
 //! 13 //
 
+// let array8 = [1, 2, 3, 4, 5];
+// let sum = 0;
+// array8.forEach(element => {
+//    sum +=element;
+  
+// });
+
+// console.log(sum);
+
+//! 14 //
+// let languages = ['html', 'css', 'javascript', "python", 'php'].filter(elemnt =>{
+//     if (elemnt.length > 3){
+//         console.log(elemnt);
+//     }
+// })
+
+//! 15 //
+
