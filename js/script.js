@@ -107,11 +107,40 @@
 //     const sum = x / 3;
 //     console.log(sum);
 // })
- 
-//! 10 // 
-// let array6 =  [15, 100, 25, 10, 36];
+
+//! 10 //
+// ;let array6 =  [15, 100, 25, 10, 36];
 // for (let y in array6){
 //     console.log(y);
 // }
 // array6.splice(3,1);
-// console.log(array6);
+// console.log(array6)
+
+//! 11 //
+
+// let array7 = [1, 2, 3 , 4 , 5];
+
+// for (let x in array7){
+//     console.log(x);
+// }
+// array7.splice(2,1,"three");
+// console.log(array7);
+
+//! 12 //
+
+// let array1 = ["hello1", 14, 24, "hello2"];
+// for (let x of array1) {
+//   if (typeof x == "number") {
+//     console.log(x);
+//   }
+// }
+
+// .. //
+// let array1 = ["hello1", 14, 24, "hello2"].forEach(function(x){
+//     if (typeof x == "number"){
+//         console.log(x);
+//     }
+// })
+
+//! 13 //
+
