@@ -96,3 +96,15 @@
 
 // array4.splice(2,0,"a","b","c");
 // console.log(array4);
+
+//! 9 //
+// let  array5 = [12, 25, 3, 6, 8, 14, 7, 23];
+
+// let result = array5.map((item) => item / 3 ) ;
+// console.log(result);
+// // .. //
+// let result1 = array5.map(function y (x){
+//     const sum = x / 3;
+//     console.log(sum);
+// })
+
