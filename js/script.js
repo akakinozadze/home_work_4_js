@@ -77,3 +77,16 @@
 //     console.log(result);
 // }
 
+//! 7 //
+
+let array3 = ["Banana","Orange","Kiwi"];
+// for (let sum in array3){
+//     console.log(sum);
+// }
+array3.push("Apple","Pineapple");
+array3.unshift("Watermelon");
+// console.log(array3.length);
+array3.splice(3,0,"mango");
+array3.shift();
+array3.pop();
+console.log(array3.length);
