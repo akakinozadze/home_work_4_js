@@ -79,14 +79,20 @@
 
 //! 7 //
 
-let array3 = ["Banana","Orange","Kiwi"];
-// for (let sum in array3){
-//     console.log(sum);
-// }
-array3.push("Apple","Pineapple");
-array3.unshift("Watermelon");
+// let array3 = ["Banana","Orange","Kiwi"];
+// // for (let sum in array3){
+// //     console.log(sum);
+// // }
+// array3.push("Apple","Pineapple");
+// array3.unshift("Watermelon");
+// // console.log(array3.length);
+// array3.splice(3,0,"mango");
+// array3.shift();
+// array3.pop();
 // console.log(array3.length);
-array3.splice(3,0,"mango");
-array3.shift();
-array3.pop();
-console.log(array3.length);
+
+//! 8 //
+// let array4 =[1, 2, 3, 4, 5];
+
+// array4.splice(2,0,"a","b","c");
+// console.log(array4);
